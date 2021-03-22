@@ -31,7 +31,7 @@ yarn test
 ```
 
 ### Surge
-See [Website](https://cli.vuejs.org/config/).
+See [Website](teeter-totter.surge.sh).
 
 
 
