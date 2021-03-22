@@ -31,7 +31,7 @@ yarn test
 ```
 
 ### Surge
-See [Website](teeter-totter.surge.sh).
+See [Website](http://teeter-totter.surge.sh/).
 
 
 
